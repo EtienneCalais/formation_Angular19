@@ -1,0 +1,24 @@
+.flex {
+  display: flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-col {
+  flex-direction: column;
+}
+.flex-auto {
+  flex: 1 1 auto;
+}
+.justifu-content-center {
+  justify-content: center;
+}
+.align-items-center {
+  align-items: center;
+}
+.gap-12 {
+  gap: 12px;
+}
+.gpa-16 {
+  gap: 16px;
+}
